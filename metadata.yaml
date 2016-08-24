@@ -1,0 +1,29 @@
+_repo: The-Dock-and-the-Scaffold--13-The-Manchester-Tragedy-and-the-Cruise-of-the-Jacknell_12961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sullivan, T. D. (Timothy Daniel)
+    alias: Sullivan, Timothy Daniel
+    birthdate: 1827
+    deathdate: 1914
+    gutenberg_agent_id: '39886'
+    url: http://www.gutenberg.org/2009/agents/39886
+description: 'At head of title: "God save Ireland."'
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 19th century'
+- !lcc 'DA'
+- !lcsh 'Ireland -- Biography'
+- !lcsh 'Erin''s Hope (Brigantine)'
+- !lcsh 'Fenians'
+- GITenberg
+title: "The Dock and the Scaffold\r\nThe Manchester Tragedy and the Cruise of the\
+  \ Jacknell"
+url: http://www.gutenberg.org/ebooks/12961

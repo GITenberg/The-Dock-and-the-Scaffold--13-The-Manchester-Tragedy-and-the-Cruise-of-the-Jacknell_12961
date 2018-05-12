@@ -1,5 +1,8 @@
 _repo: The-Dock-and-the-Scaffold--13-The-Manchester-Tragedy-and-the-Cruise-of-the-Jacknell_12961
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sullivan, T. D. (Timothy Daniel)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '39886'
     url: http://www.gutenberg.org/2009/agents/39886
 description: 'At head of title: "God save Ireland."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12961#The-Dock-and-the-Scaffold--13-The-Manchester-Tragedy-and-the-Cruise-of-the-Jacknell
 gutenberg_issued: '2004-07-20'
 gutenberg_type: Text
 identifiers:
